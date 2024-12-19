@@ -53,12 +53,6 @@ The application consists of:
 
 ---
 
-## 📷 **Preview**
-
-![App Preview](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-
----
-
 ## 🤝 **Contributing**
 
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request.
