@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your project:
-
----
-
 # Apples Shifting Game
 
 This project demonstrates a simple interactive web application built with **HTML**, **CSS**, and **JavaScript**, where apples can be transferred between two baskets using buttons.
